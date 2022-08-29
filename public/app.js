@@ -35,8 +35,7 @@
 
 /// 2nd question //
   const visualizeMatchesWonByAllTeams = (matchesWonByAllTeams)=>{
-    let seriesData = Object.entries(matchesWonByAllTeams).map(eachYear => Object.entries(eachYear));
-    console.log(seriesData);
+    let seriesData = Object.entries(matchesWonByAllTeams);
 
   Highcharts.chart("matches-by-won-all-teams", {
     chart: {

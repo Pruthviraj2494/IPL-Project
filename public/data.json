@@ -1,1 +1,253 @@
-{"matchesPlayedPerYear":{"2008":58,"2009":57,"2010":60,"2011":73,"2012":74,"2013":76,"2014":60,"2015":59,"2016":60,"2017":59},"matchesWonByAllTeamsEachYear":{"2008":{"Mumbai Indians":5,"Royal Challengers Bangalore":9,"Delhi Daredevils":10,"Deccan Chargers":9,"Chennai Super Kings":8,"Kolkata Knight Riders":3,"Rajasthan Royals":6,"Kings XI Punjab":7},"2009":{"Kolkata Knight Riders":7,"Mumbai Indians":11,"Delhi Daredevils":7,"Deccan Chargers":8,"Royal Challengers Bangalore":8,"Chennai Super Kings":9,"Rajasthan Royals":6,"Kings XI Punjab":4},"2010":{"Chennai Super Kings":11,"Rajasthan Royals":6,"Royal Challengers Bangalore":10,"Mumbai Indians":10,"Pune Warriors":4,"Kolkata Knight Riders":8,"Kings XI Punjab":7,"Deccan Chargers":6,"Kochi Tuskers Kerala":6,"Delhi Daredevils":4,"":1},"2011":{"Mumbai Indians":10,"Delhi Daredevils":11,"Pune Warriors":4,"Rajasthan Royals":7,"Royal Challengers Bangalore":8,"Chennai Super Kings":10,"Kolkata Knight Riders":12,"Kings XI Punjab":8,"Deccan Chargers":4},"2012":{"Kolkata Knight Riders":6,"Royal Challengers Bangalore":9,"Sunrisers Hyderabad":10,"Rajasthan Royals":11,"Mumbai Indians":13,"Kings XI Punjab":8,"Chennai Super Kings":12,"Pune Warriors":4,"Delhi Daredevils":3},"2013":{"Kolkata Knight Riders":11,"Royal Challengers Bangalore":5,"Kings XI Punjab":12,"Rajasthan Royals":7,"Delhi Daredevils":2,"Chennai Super Kings":10,"Sunrisers Hyderabad":6,"Mumbai Indians":7},"2014":{"Kolkata Knight Riders":7,"Chennai Super Kings":10,"Rajasthan Royals":7,"Royal Challengers Bangalore":8,"Kings XI Punjab":3,"Sunrisers Hyderabad":7,"Delhi Daredevils":5,"Mumbai Indians":10,"":2},"2015":{"Rising Pune Supergiants":5,"Kolkata Knight Riders":8,"Gujarat Lions":9,"Royal Challengers Bangalore":9,"Mumbai Indians":7,"Delhi Daredevils":7,"Kings XI Punjab":4,"Sunrisers Hyderabad":11},"2016":{"Sunrisers Hyderabad":8,"Rising Pune Supergiant":10,"Kolkata Knight Riders":9,"Kings XI Punjab":7,"Royal Challengers Bangalore":3,"Mumbai Indians":12,"Delhi Daredevils":6,"Gujarat Lions":4},"2017":{"Kolkata Knight Riders":6,"Chennai Super Kings":9,"Delhi Daredevils":7,"Royal Challengers Bangalore":4,"Rajasthan Royals":13,"Kings XI Punjab":10,"Deccan Chargers":2,"Mumbai Indians":7}},"extraRunConceded":{"Rising Pune Supergiants":108,"Mumbai Indians":102,"Kolkata Knight Riders":122,"Delhi Daredevils":106,"Gujarat Lions":98,"Kings XI Punjab":100,"Sunrisers Hyderabad":107,"Royal Challengers Bangalore":156},"economicalBowlersYear":{"RN ten Doeschate":4,"J Yadav":4.142857142857143,"V Kohli":5.454545454545455,"R Ashwin":5.871794871794871,"S Nadeem":6.142857142857143,"Parvez Rasool":6.2,"MC Henriques":6.56,"Z Khan":6.579310344827586,"M Vijay":7,"GB Hogg":7.0476190476190474},"matchesWonByMiEachYear":{"2008":7,"2009":5,"2010":11,"2011":10,"2012":10,"2013":13,"2014":7,"2015":10,"2016":7,"2017":12},"wonTossAndMatchData":{"Royal Challengers Bangalore":5,"Rising Pune Supergiant":5,"Kolkata Knight Riders":1,"Kings XI Punjab":1,"Sunrisers Hyderabad":3,"Mumbai Indians":1,"Gujarat Lions":3,"Delhi Daredevils":2,"Chennai Super Kings":1,"Rajasthan Royals":2,"Deccan Chargers":1,"Kochi Tuskers Kerala":2,"Pune Warriors":2,"Rising Pune Supergiants":2},"strikeRateData":{"MS Dhoni":{"2008":{"runs":414,"balls":319,"StrikeRate":"129.78"},"2009":{"runs":332,"balls":270,"StrikeRate":"122.96"},"2010":{"runs":287,"balls":215,"StrikeRate":"133.49"},"2011":{"runs":392,"balls":247,"StrikeRate":"158.70"},"2012":{"runs":357,"balls":283,"StrikeRate":"126.15"},"2013":{"runs":461,"balls":298,"StrikeRate":"154.70"},"2014":{"runs":371,"balls":258,"StrikeRate":"143.80"},"2015":{"runs":372,"balls":309,"StrikeRate":"120.39"},"2016":{"runs":284,"balls":220,"StrikeRate":"129.09"},"2017":{"runs":290,"balls":261,"StrikeRate":"111.11"}}},"playerOfTheMatchData":{"2008":"SE Marsh","2009":"YK Pathan","2010":"SR Tendulkar","2011":"CH Gayle","2012":"CH Gayle","2013":"MEK Hussey","2014":"GJ Maxwell","2015":"DA Warner","2016":"V Kohli","2017":"BA Stokes"},"bestEconomyInSuperOversData":{"JJ Bumrah":4.5,"MG Johnson":9,"J Theron":10.799999999999999,"R Rampaul":11,"SP Narine":11,"JP Faulkner":12,"Kamran Khan":12.857142857142856,"CH Morris":12.857142857142856,"M Muralitharan":15,"DW Steyn":15},"highestDismissalData":{"V Kohli":"A Nehra"}}
+{
+    "matchesPlayedPerYear": {
+        "2008": 58,
+        "2009": 57,
+        "2010": 60,
+        "2011": 73,
+        "2012": 74,
+        "2013": 76,
+        "2014": 60,
+        "2015": 59,
+        "2016": 60,
+        "2017": 59
+    },
+    "matchesWonByAllTeamsEachYear": {
+        "2008": {
+            "Mumbai Indians": 5,
+            "Royal Challengers Bangalore": 9,
+            "Delhi Daredevils": 10,
+            "Deccan Chargers": 9,
+            "Chennai Super Kings": 8,
+            "Kolkata Knight Riders": 3,
+            "Rajasthan Royals": 6,
+            "Kings XI Punjab": 7
+        },
+        "2009": {
+            "Kolkata Knight Riders": 7,
+            "Mumbai Indians": 11,
+            "Delhi Daredevils": 7,
+            "Deccan Chargers": 8,
+            "Royal Challengers Bangalore": 8,
+            "Chennai Super Kings": 9,
+            "Rajasthan Royals": 6,
+            "Kings XI Punjab": 4
+        },
+        "2010": {
+            "Chennai Super Kings": 11,
+            "Rajasthan Royals": 6,
+            "Royal Challengers Bangalore": 10,
+            "Mumbai Indians": 10,
+            "Pune Warriors": 4,
+            "Kolkata Knight Riders": 8,
+            "Kings XI Punjab": 7,
+            "Deccan Chargers": 6,
+            "Kochi Tuskers Kerala": 6,
+            "Delhi Daredevils": 4,
+            "": 1
+        },
+        "2011": {
+            "Mumbai Indians": 10,
+            "Delhi Daredevils": 11,
+            "Pune Warriors": 4,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 8,
+            "Chennai Super Kings": 10,
+            "Kolkata Knight Riders": 12,
+            "Kings XI Punjab": 8,
+            "Deccan Chargers": 4
+        },
+        "2012": {
+            "Kolkata Knight Riders": 6,
+            "Royal Challengers Bangalore": 9,
+            "Sunrisers Hyderabad": 10,
+            "Rajasthan Royals": 11,
+            "Mumbai Indians": 13,
+            "Kings XI Punjab": 8,
+            "Chennai Super Kings": 12,
+            "Pune Warriors": 4,
+            "Delhi Daredevils": 3
+        },
+        "2013": {
+            "Kolkata Knight Riders": 11,
+            "Royal Challengers Bangalore": 5,
+            "Kings XI Punjab": 12,
+            "Rajasthan Royals": 7,
+            "Delhi Daredevils": 2,
+            "Chennai Super Kings": 10,
+            "Sunrisers Hyderabad": 6,
+            "Mumbai Indians": 7
+        },
+        "2014": {
+            "Kolkata Knight Riders": 7,
+            "Chennai Super Kings": 10,
+            "Rajasthan Royals": 7,
+            "Royal Challengers Bangalore": 8,
+            "Kings XI Punjab": 3,
+            "Sunrisers Hyderabad": 7,
+            "Delhi Daredevils": 5,
+            "Mumbai Indians": 10,
+            "": 2
+        },
+        "2015": {
+            "Rising Pune Supergiants": 5,
+            "Kolkata Knight Riders": 8,
+            "Gujarat Lions": 9,
+            "Royal Challengers Bangalore": 9,
+            "Mumbai Indians": 7,
+            "Delhi Daredevils": 7,
+            "Kings XI Punjab": 4,
+            "Sunrisers Hyderabad": 11
+        },
+        "2016": {
+            "Sunrisers Hyderabad": 8,
+            "Rising Pune Supergiant": 10,
+            "Kolkata Knight Riders": 9,
+            "Kings XI Punjab": 7,
+            "Royal Challengers Bangalore": 3,
+            "Mumbai Indians": 12,
+            "Delhi Daredevils": 6,
+            "Gujarat Lions": 4
+        },
+        "2017": {
+            "Kolkata Knight Riders": 6,
+            "Chennai Super Kings": 9,
+            "Delhi Daredevils": 7,
+            "Royal Challengers Bangalore": 4,
+            "Rajasthan Royals": 13,
+            "Kings XI Punjab": 10,
+            "Deccan Chargers": 2,
+            "Mumbai Indians": 7
+        }
+    },
+    "extraRunConceded": {
+        "Rising Pune Supergiants": 108,
+        "Mumbai Indians": 102,
+        "Kolkata Knight Riders": 122,
+        "Delhi Daredevils": 106,
+        "Gujarat Lions": 98,
+        "Kings XI Punjab": 100,
+        "Sunrisers Hyderabad": 107,
+        "Royal Challengers Bangalore": 156
+    },
+    "economicalBowlersYear": {
+        "RN ten Doeschate": 4,
+        "J Yadav": 4.142857142857143,
+        "V Kohli": 5.454545454545455,
+        "R Ashwin": 5.871794871794871,
+        "S Nadeem": 6.142857142857143,
+        "Parvez Rasool": 6.2,
+        "MC Henriques": 6.56,
+        "Z Khan": 6.579310344827586,
+        "M Vijay": 7,
+        "GB Hogg": 7.0476190476190474
+    },
+    "matchesWonByMiEachYear": {
+        "2008": 7,
+        "2009": 5,
+        "2010": 11,
+        "2011": 10,
+        "2012": 10,
+        "2013": 13,
+        "2014": 7,
+        "2015": 10,
+        "2016": 7,
+        "2017": 12
+    },
+    "wonTossAndMatchData": {
+        "Royal Challengers Bangalore": 5,
+        "Rising Pune Supergiant": 5,
+        "Kolkata Knight Riders": 1,
+        "Kings XI Punjab": 1,
+        "Sunrisers Hyderabad": 3,
+        "Mumbai Indians": 1,
+        "Gujarat Lions": 3,
+        "Delhi Daredevils": 2,
+        "Chennai Super Kings": 1,
+        "Rajasthan Royals": 2,
+        "Deccan Chargers": 1,
+        "Kochi Tuskers Kerala": 2,
+        "Pune Warriors": 2,
+        "Rising Pune Supergiants": 2
+    },
+    "strikeRateData": {
+        "MS Dhoni": {
+            "2008": {
+                "runs": 414,
+                "balls": 319,
+                "StrikeRate": "129.78"
+            },
+            "2009": {
+                "runs": 332,
+                "balls": 270,
+                "StrikeRate": "122.96"
+            },
+            "2010": {
+                "runs": 287,
+                "balls": 215,
+                "StrikeRate": "133.49"
+            },
+            "2011": {
+                "runs": 392,
+                "balls": 247,
+                "StrikeRate": "158.70"
+            },
+            "2012": {
+                "runs": 357,
+                "balls": 283,
+                "StrikeRate": "126.15"
+            },
+            "2013": {
+                "runs": 461,
+                "balls": 298,
+                "StrikeRate": "154.70"
+            },
+            "2014": {
+                "runs": 371,
+                "balls": 258,
+                "StrikeRate": "143.80"
+            },
+            "2015": {
+                "runs": 372,
+                "balls": 309,
+                "StrikeRate": "120.39"
+            },
+            "2016": {
+                "runs": 284,
+                "balls": 220,
+                "StrikeRate": "129.09"
+            },
+            "2017": {
+                "runs": 290,
+                "balls": 261,
+                "StrikeRate": "111.11"
+            }
+        }
+    },
+    "playerOfTheMatchData": {
+        "2008": "SE Marsh",
+        "2009": "YK Pathan",
+        "2010": "SR Tendulkar",
+        "2011": "CH Gayle",
+        "2012": "CH Gayle",
+        "2013": "MEK Hussey",
+        "2014": "GJ Maxwell",
+        "2015": "DA Warner",
+        "2016": "V Kohli",
+        "2017": "BA Stokes"
+    },
+    "bestEconomyInSuperOversData": {
+        "JJ Bumrah": 4.5,
+        "MG Johnson": 9,
+        "J Theron": 10.799999999999999,
+        "R Rampaul": 11,
+        "SP Narine": 11,
+        "JP Faulkner": 12,
+        "Kamran Khan": 12.857142857142856,
+        "CH Morris": 12.857142857142856,
+        "M Muralitharan": 15,
+        "DW Steyn": 15
+    },
+    "highestDismissalData": {
+        "V Kohli": "A Nehra"
+    }
+}

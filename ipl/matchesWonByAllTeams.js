@@ -26,8 +26,12 @@ const matchesWonByAllTeams = (matchData)=>{
 
     const matchesWonByAllTeamsPerYear = {};
      arrayOfYears.map((currentYear,index)=>{
-        matchesWonByAllTeamsPerYear[currentYear] = winnersPerYear[index] 
+        matchesWonByAllTeamsPerYear[currentYear] = winnersPerYear[index]
     })
+
+    // console.log(matchesWonByAllTeamsPerYear);
+    // let seriesData = Object.entries(matchesWonByAllTeamsPerYear).map(eachEntry => Object.fromEntries(eachEntry));
+    // console.log(seriesData)
     return matchesWonByAllTeamsPerYear;
 }
 module.exports = matchesWonByAllTeams;
